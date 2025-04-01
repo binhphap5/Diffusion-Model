@@ -1,4 +1,6 @@
-figs/*
-!figs/training_epoch_295000.png
-figs_noise/*
-!figs_noise/training_epoch_295000.png
+swiss_roll_diffuser/figs/*
+!swiss_roll_diffuser/figs/training_epoch_295000.png
+swiss_roll_diffuser/figs_noise/*
+!swiss_roll_diffuser/figs_noise/training_epoch_295000.png
+inpainting_diffuser/save_model/*
+inpainting_diffuser/dataset/*
