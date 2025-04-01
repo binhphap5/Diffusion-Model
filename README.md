@@ -14,5 +14,9 @@ Diffusion model training on [CelebA dataset](https://mmlab.ie.cuhk.edu.hk/projec
 
 ## Result
 | Input Image                                                               | Reconstructed Image                                                                        |
-|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| <img src="inpainting_diffuser/input_image.png" alt="Center Corruption" width="300" style="border:1px solid #ccc; border-radius:8px;" /> | <img src="inpainting_diffuser/result.png" alt="Random Corruption" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| <img src="inpainting_diffuser/input_image.png" alt="Center Corruption" width="300" style="border:1px solid #ccc; border-radius:8px;" /> | <img src="inpainting_diffuser/reconstructed_image.png" alt="Random Corruption" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
+
+| Reconstructing Progress                                                     |
+|----------------------------------------------------------------------------|
+| <img src="inpainting_diffuser/result.png" alt="Reconstructing Progress" width="300" style="border:1px solid #ccc; border-radius:8px;" /> |
